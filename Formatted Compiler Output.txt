@@ -1,0 +1,2 @@
+C:\Users\RAJAT\Documents\MethodOverloadingConcatenate.cpp	In member function 'String String::operator+(int)':
+60	25	C:\Users\RAJAT\Documents\MethodOverloadingConcatenate.cpp	[Error] invalid conversion from 'char*' to 'char' [-fpermissive]
