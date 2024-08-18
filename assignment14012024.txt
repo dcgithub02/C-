@@ -1,4 +1,0 @@
-10 students ne exam diya
-15 maximum marks ha
-every student got unque marks , but clerk entered duplicate entry for 1 
-1 class --->>>5 field --->2 obj ko add krnah of same class but freturn 3 karni h ...first three return krni hai
